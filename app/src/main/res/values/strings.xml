@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Processes</string>
+    <string name="details">Details</string>
+    <string name="network_statistics">Network statistics</string>
+    <string name="open_application_info">Open application info</string>
+    <string name="network_stat_template">Rx: %1$dB Tx: %2$dB</string>
+    <string name="cannot_load_data">Cannot load data</string>
+</resources>
